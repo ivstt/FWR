@@ -1,0 +1,6 @@
+.items-container{
+    max-width: 500px;
+    min-width: 300px;
+    width: 500px;
+    margin: 0 auto;
+}
